@@ -21,9 +21,5 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 * [Geopandas](http://geopandas.org/)
 * [Rasterio](https://rasterio.readthedocs.io/en/stable/)
 
-
-## Outputs
-
-
 ---
 Prepared by [Alex Pakalniskis](https://alexpakalniskis.com) for [UA GIS Day](https://libguides.library.arizona.edu/c.php?g=448632&p=6942703) 2019
