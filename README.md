@@ -14,6 +14,7 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 <br>
 
 ## Resources
+* [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1GeXBEgAsiQ8Cqysi5KWJLTxso5FTAamw)
 * [PublicaMundi USA State Boundaries GeoJSON](https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json")
 * [Southern Arizona Jurisdictional Boundaries GeoJSON](https://opendata.arcgis.com/datasets/b53bbe832e4e4d94a31730b596487d28_0.geojson)
 * [Leaflet/folium Tile Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
