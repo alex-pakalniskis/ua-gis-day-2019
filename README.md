@@ -23,10 +23,5 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 * [Rasterio](https://rasterio.readthedocs.io/en/stable/)
 * [Rasterstats](https://pythonhosted.org/rasterstats/)
 
-## Extras
-* [Leaflet/folium Tile Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
-* [Matplotlib Colormaps](https://matplotlib.org/3.1.1/gallery/color/colormap_reference.html)
-
-
 ---
 Prepared by [Alex Pakalniskis](https://alexpakalniskis.com) for [UA GIS Day](https://libguides.library.arizona.edu/c.php?g=448632&p=6942703) 2019
