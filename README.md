@@ -14,13 +14,19 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 <br>
 
 ## Resources
+* [Python programming](https://www.python.org/)
 * [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1GeXBEgAsiQ8Cqysi5KWJLTxso5FTAamw)
-* [PublicaMundi USA State Boundaries GeoJSON](https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json")
-* [Southern Arizona Jurisdictional Boundaries GeoJSON](https://opendata.arcgis.com/datasets/b53bbe832e4e4d94a31730b596487d28_0.geojson)
-* [Leaflet/folium Tile Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
-* [Matplotlib Colormaps](https://matplotlib.org/3.1.1/gallery/color/colormap_reference.html)
+* Google Slides Presentation
+* [Jupyter Notebook](https://jupyter.org/)
+* [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#)
 * [Geopandas](http://geopandas.org/)
 * [Rasterio](https://rasterio.readthedocs.io/en/stable/)
+* [Rasterstats](https://pythonhosted.org/rasterstats/)
+
+## Extras
+* [Leaflet/folium Tile Providers](https://leaflet-extras.github.io/leaflet-providers/preview/)
+* [Matplotlib Colormaps](https://matplotlib.org/3.1.1/gallery/color/colormap_reference.html)
+
 
 ---
 Prepared by [Alex Pakalniskis](https://alexpakalniskis.com) for [UA GIS Day](https://libguides.library.arizona.edu/c.php?g=448632&p=6942703) 2019
