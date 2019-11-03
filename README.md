@@ -20,7 +20,7 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 
 ## Data
 * [CHIRPS: Rainfall Estimates from Rain Gauge and Satellite Observations](https://www.chc.ucsb.edu/data/chirps)
-  *Monthly, global data at 0.05 degree spatial resolution: ftp://ftp.chg.ucsb.edu/pub/org/chg/products/CHIRPS-2.0/global_monthly/tifs/
+  * Monthly, global data at 0.05 degree spatial resolution: ftp://ftp.chg.ucsb.edu/pub/org/chg/products/CHIRPS-2.0/global_monthly/tifs/
 
 
 ## Additional Resources
