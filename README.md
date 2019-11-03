@@ -35,5 +35,8 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Folium](https://python-visualization.github.io/folium/)
+
+
 ---
+
 Prepared by [Alex Pakalniskis](https://alexpakalniskis.com) for [UA GIS Day](https://libguides.library.arizona.edu/c.php?g=448632&p=6942703) 2019
