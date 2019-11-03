@@ -15,7 +15,7 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 
 ## Materials
 * [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1GeXBEgAsiQ8Cqysi5KWJLTxso5FTAamw)
-* [GitPitch Presentation](https://gitpitch.com/alex-pakalniskis/ua-gis-day-2019/master#/)
+* [GitPitch Presentation for Workshop](https://gitpitch.com/alex-pakalniskis/ua-gis-day-2019/master#/)
 
 
 ## Data
