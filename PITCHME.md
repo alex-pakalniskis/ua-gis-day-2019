@@ -1,6 +1,6 @@
 ---
 
-# Open-Geospatial Analysis with Python
+## Open-Geospatial Analysis with Python
 
 Alex Pakalniskis 3
 
