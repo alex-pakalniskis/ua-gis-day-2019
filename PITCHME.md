@@ -17,6 +17,9 @@ Alex Pakalniskis
 
 * [Climate Change](https://en.wikipedia.org/wiki/Global_warming)
 * [Globalization](https://en.wikipedia.org/wiki/Globalization#Environmentalist_opposition)
+* [Urbanization](https://en.wikipedia.org/wiki/Urbanization)
+
+<img src="http://www.nasa.gov/sites/default/files/oco2-pia17997-main_0.gif" height="200" width="50%">
 
 ---
 
