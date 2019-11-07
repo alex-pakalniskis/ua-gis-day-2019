@@ -15,6 +15,8 @@ Alex Pakalniskis
 
 ### Our Changing [Lifeworlds](https://en.wikipedia.org/wiki/Lifeworld)
 
+<br>
+
 * [Climate Change](https://en.wikipedia.org/wiki/Global_warming)
 * [Globalization](https://en.wikipedia.org/wiki/Globalization#Environmentalist_opposition)
 * [Urbanization](https://en.wikipedia.org/wiki/Urbanization)
