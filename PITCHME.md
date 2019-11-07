@@ -1,13 +1,90 @@
 ---
 
-## Open-Geospatial Analysis with Python
-
-*Workshop covering basic Python programming for geospatial applications*
+# Open-Geospatial Analysis with Python
 
 Alex Pakalniskis 3
 
 ---
 
+Welcome to [GIS Day 2019](https://libguides.library.arizona.edu/c.php?g=448632&p=6942703) at [UA Libraries](https://new.library.arizona.edu/)
+
+---
+
+Our Changing [Lifeworlds](https://en.wikipedia.org/wiki/Lifeworld)
+
+---
+
+Spatial and Temporal Data
+
+---
+
+What is [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)?
+
+---
+
+GIS software options
+
+---
+
+Open Science, but why?
+
+---
+
+Project Jupyter
+
+---
+
+Google Colaboratory
+
+---
+
+Activity Time: Open Colaboratory and Install GIS Software
+
+---
+
+Vector and Raster GIS Data
+
+---
+
+Common File Formats
+
+---
+
+Activity Time: Display GIS Data in Colaboratory
+
+---
+
+Points, Lines, and Polygons
+
+---
+
+Set-Operations: Intersections, Unions, and Differences
+
+---
+
+Activity Time: Calculate road network connectivity (length of road per land area) in each Arizona county
+
+---
+
+Merging Spatial and Non-spatial Data with Attribute Joins
+
+---
+
+Activity Time: Merge Arizona county boundaries with road network connectivity scores
+
+---
+
+Spatial data with repeat observations
+
+---
+
+Activity Time: Eestimate Arizona county land cover change through time
+
+---
+
+The End
+
+Thanks!
 
 
 
