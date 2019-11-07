@@ -24,6 +24,7 @@ Alex Pakalniskis
 <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/63_years_of_climate_change_by_NASA.gif" height="200" width="50%">
+Global Climate Change, Wikimedia Commons
 
 ---
 
@@ -32,6 +33,7 @@ Alex Pakalniskis
 <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/EC-EU-enlargement_animation.gif" height="400" width="50%">
+European Union Enlargement Through Time, Wikimedia Commons
 
 ---
 
