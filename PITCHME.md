@@ -14,6 +14,9 @@ Welcome to [GIS Day 2019](https://libguides.library.arizona.edu/c.php?g=448632&p
 
 Our Changing [Lifeworlds](https://en.wikipedia.org/wiki/Lifeworld)
 
+* [Climate Change](https://en.wikipedia.org/wiki/Global_warming)
+* [Globalization](https://en.wikipedia.org/wiki/Globalization#Environmentalist_opposition)
+
 ---
 
 Spatial and Temporal Data
@@ -80,7 +83,7 @@ Spatial data with repeat observations
 
 ---
 
-Activity Time: Eestimate Arizona county land cover change through time
+Activity Time: Estimate Arizona county land cover change through time
 
 ---
 
