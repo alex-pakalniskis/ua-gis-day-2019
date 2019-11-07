@@ -2,7 +2,8 @@
 
 ## Open-Geospatial Analysis with Python
 
-Alex Pakalniskis 3
+
+Alex Pakalniskis
 
 ---
 
@@ -19,27 +20,21 @@ Alex Pakalniskis 3
 
 ---
 
-Spatial and Temporal Data
+### What is [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)?
 
 ---
 
-What is [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)?
+### GIS software options
 
 ---
 
-GIS software options
+### Open Science
+
+But why?
 
 ---
 
-Open Science, but why?
-
----
-
-Project Jupyter
-
----
-
-Google Colaboratory
+### Project Jupyter and Google Colaboratory
 
 ---
 
