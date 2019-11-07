@@ -8,6 +8,8 @@ Alex Pakalniskis 3
 
 Welcome to [GIS Day 2019](https://libguides.library.arizona.edu/c.php?g=448632&p=6942703) at [UA Libraries](https://new.library.arizona.edu/)
 
+<iframe src="https://maps.arizona.edu/room/?room=0112&bldg=0070.00" height="350" width="90%"></iframe>
+
 ---
 
 Our Changing [Lifeworlds](https://en.wikipedia.org/wiki/Lifeworld)
