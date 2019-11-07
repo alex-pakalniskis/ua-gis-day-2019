@@ -29,6 +29,8 @@ Alex Pakalniskis
 
 ### What is [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)?
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/EC-EU-enlargement_animation.gif" height="200" width="50%">
+
 ---
 
 ### GIS software options
