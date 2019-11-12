@@ -16,11 +16,11 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 ## Materials
 * [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1zh9R6291bQ2XpnCkOCdSwAdD6gmKg1U9)
 * [Google Slides Presentation for Workshop]()
+* [Google Drive Folder for Workshop, public-view](https://drive.google.com/drive/folders/1O_iMDUAMzz2Kdec-bUmry5Zea8PEqmSp?usp=sharing)
 
 ## Data
 * [United States of America Census Bureau County Cartographic Boundary Files](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_county_500k.zip)
 * [European Space Agency Climate Change Initiative Land Cover Data, 1992-2015 multiband TIFF, Arizona subset](https://drive.google.com/file/d/1bFudz1SDazEHa4liUnA8Xf0uWHyRzA3n/view?usp=sharing)
-
 
 ## Additional Resources
 * [Python programming](https://www.python.org/)
