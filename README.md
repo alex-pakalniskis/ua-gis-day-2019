@@ -14,13 +14,12 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 <br>
 
 ## Materials
-* [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1GeXBEgAsiQ8Cqysi5KWJLTxso5FTAamw)
-* [GitPitch Presentation for Workshop](https://gitpitch.com/alex-pakalniskis/ua-gis-day-2019/master#/)
-
+* [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1zh9R6291bQ2XpnCkOCdSwAdD6gmKg1U9)
+* [Google Slides Presentation for Workshop]()
 
 ## Data
-* [CHIRPS: Rainfall Estimates from Rain Gauge and Satellite Observations](https://www.chc.ucsb.edu/data/chirps)
-  * Monthly, global data at 0.05 degree spatial resolution: ftp://ftp.chg.ucsb.edu/pub/org/chg/products/CHIRPS-2.0/global_monthly/tifs/
+* [United States of America Census Bureau County Cartographic Boundary Files](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_county_500k.zip)
+* [European Space Agency Climate Change Initiative Land Cover Data, 1992-2015 multiband TIFF, Arizona subset](https://drive.google.com/file/d/1bFudz1SDazEHa4liUnA8Xf0uWHyRzA3n/view?usp=sharing)
 
 
 ## Additional Resources
@@ -34,7 +33,6 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 * [Rasterstats](https://pythonhosted.org/rasterstats/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
-* [Folium](https://python-visualization.github.io/folium/)
 
 
 ---
