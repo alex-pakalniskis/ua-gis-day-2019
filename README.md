@@ -15,7 +15,7 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 
 ## Materials
 * [Google Colaboratory Jupyter Notebook for Workshop](https://colab.research.google.com/drive/1zh9R6291bQ2XpnCkOCdSwAdD6gmKg1U9)
-* [Google Slides Presentation for Workshop]()
+* [Google Slides Presentation for Workshop](https://docs.google.com/presentation/d/1OBXgjxVX4PMsteCftzDhP5GVsBXNbcU5BuHPRj_7Bus/view?usp=sharing)
 * [Google Drive Folder for Workshop, public-view](https://drive.google.com/drive/folders/1O_iMDUAMzz2Kdec-bUmry5Zea8PEqmSp?usp=sharing)
 
 ## Data
