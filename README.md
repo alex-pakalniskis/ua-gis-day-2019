@@ -33,6 +33,7 @@ Learn how to manipulate vector and raster data and perform basic spatial analysi
 * [Rasterstats](https://pythonhosted.org/rasterstats/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
+* [Linux](https://www.linuxfoundation.org/)
 
 
 ---
